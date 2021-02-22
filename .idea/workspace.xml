@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9d500e85-48be-4100-9228-b1babbc1ef4d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="Python Unit Test" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1lR2E39pnLzAG4ixKl67LdjX6ZR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="ANN_2021" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <module name="ANN_2021" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="docs" factoryName="Docutils task">
+      <module name="ANN_2021" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="docutils_input_file" value="" />
+      <option name="docutils_output_file" value="" />
+      <option name="docutils_params" value="" />
+      <option name="docutils_task" value="" />
+      <option name="docutils_open_in_browser" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="docs" factoryName="Sphinx task">
+      <module name="ANN_2021" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="docutils_input_file" value="" />
+      <option name="docutils_output_file" value="" />
+      <option name="docutils_params" value="" />
+      <option name="docutils_task" value="" />
+      <option name="docutils_open_in_browser" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <module name="ANN_2021" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <module name="ANN_2021" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9d500e85-48be-4100-9228-b1babbc1ef4d" name="Default Changelist" comment="" />
+      <created>1607545467565</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607545467565</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="257" y="179" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1613057394831">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="257" y="179" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1613057394831" />
+    <state x="0" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1610857932631">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="0" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.1680.1027/1290.-1057.1920.1057@0.23.1680.1027" timestamp="1610857932631" />
+    <state x="660" y="421" key="Github.ShareDialog" timestamp="1613057440161">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="660" y="421" key="Github.ShareDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1613057440161" />
+    <state x="419" y="231" key="Github.UntrackedFilesDialog" timestamp="1613057446875">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="419" y="231" key="Github.UntrackedFilesDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1613057446875" />
+    <state width="1340" height="463" key="GridCell.Tab.0.bottom" timestamp="1612904943094">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1158" height="330" key="GridCell.Tab.0.bottom/0.23.1680.1027/1290.-1057.1920.1057@0.23.1680.1027" timestamp="1612156453350" />
+    <state width="1340" height="463" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1612904943094" />
+    <state width="1340" height="463" key="GridCell.Tab.0.center" timestamp="1612904943093">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1158" height="330" key="GridCell.Tab.0.center/0.23.1680.1027/1290.-1057.1920.1057@0.23.1680.1027" timestamp="1612156453349" />
+    <state width="1340" height="463" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1612904943093" />
+    <state width="1340" height="463" key="GridCell.Tab.0.left" timestamp="1612904943093">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1158" height="330" key="GridCell.Tab.0.left/0.23.1680.1027/1290.-1057.1920.1057@0.23.1680.1027" timestamp="1612156453348" />
+    <state width="1340" height="463" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1612904943093" />
+    <state width="1340" height="463" key="GridCell.Tab.0.right" timestamp="1612904943094">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1158" height="330" key="GridCell.Tab.0.right/0.23.1680.1027/1290.-1057.1920.1057@0.23.1680.1027" timestamp="1612156453350" />
+    <state width="1340" height="463" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1612904943094" />
+    <state width="1158" height="330" key="GridCell.Tab.1.bottom" timestamp="1612156453353">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1158" height="330" key="GridCell.Tab.1.bottom/0.23.1680.1027/1290.-1057.1920.1057@0.23.1680.1027" timestamp="1612156453353" />
+    <state width="1158" height="330" key="GridCell.Tab.1.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1611779127061" />
+    <state width="1158" height="330" key="GridCell.Tab.1.center" timestamp="1612156453352">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1158" height="330" key="GridCell.Tab.1.center/0.23.1680.1027/1290.-1057.1920.1057@0.23.1680.1027" timestamp="1612156453352" />
+    <state width="1158" height="330" key="GridCell.Tab.1.center/0.23.1680.1027@0.23.1680.1027" timestamp="1611779127061" />
+    <state width="1158" height="330" key="GridCell.Tab.1.left" timestamp="1612156453351">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1158" height="330" key="GridCell.Tab.1.left/0.23.1680.1027/1290.-1057.1920.1057@0.23.1680.1027" timestamp="1612156453351" />
+    <state width="1158" height="330" key="GridCell.Tab.1.left/0.23.1680.1027@0.23.1680.1027" timestamp="1611779127061" />
+    <state width="1158" height="330" key="GridCell.Tab.1.right" timestamp="1612156453352">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1158" height="330" key="GridCell.Tab.1.right/0.23.1680.1027/1290.-1057.1920.1057@0.23.1680.1027" timestamp="1612156453352" />
+    <state width="1158" height="330" key="GridCell.Tab.1.right/0.23.1680.1027@0.23.1680.1027" timestamp="1611779127061" />
+    <state width="794" height="495" key="XDebugger.FullValuePopup" timestamp="1611673413855">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="794" height="495" key="XDebugger.FullValuePopup/0.23.1680.1027@0.23.1680.1027" timestamp="1611673413855" />
+    <state x="690" y="107" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1611757356899">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="690" y="107" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.23.1680.1027@0.23.1680.1027" timestamp="1611757356899" />
+    <state x="446" y="245" width="672" height="678" key="search.everywhere.popup" timestamp="1611260643252">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="446" y="245" width="672" height="678" key="search.everywhere.popup/0.23.1680.1027/1290.-1057.1920.1057@0.23.1680.1027" timestamp="1611208624389" />
+    <state x="446" y="245" width="672" height="678" key="search.everywhere.popup/0.23.1680.1027@0.23.1680.1027" timestamp="1611260643252" />
+  </component>
+</project>
