@@ -7,7 +7,7 @@ import math
 
 class ANN:
 
-    def __init__(self, layer_sizes: List[int], activation_ids: Tuple[ActivationType] = None):
+    def __init__(self, layer_sizes: List[int], activation_ids: List[ActivationType] = None):
         self.layer_sizes = layer_sizes
         self.num_layers = len(layer_sizes)
         # set up and randomize the weight matrices between layers
@@ -23,7 +23,7 @@ class ANN:
         self.a_values_for_layers: List[Optional[np.ndarray]] = [None] * self.num_layers
         self.y_hats_for_layers: List[Optional[np.ndarray]] = [None] * self.num_layers
 
-    def build_activation_functions_list(self, activation_ids: Tuple[ActivationType]):
+    def build_activation_functions_list(self, activation_ids: List[ActivationType]):
         """
         generate a list of activation ids that corresponds to the requested list of ids. If only one id is given, use
         all of that type. If no id is given, fill the list with SIGMOIDS.
@@ -93,7 +93,7 @@ class ANN:
         activations = []
         for i in range(num_layers):
             activations.append(ActivationType[activations_split[i]])
-        activations = tuple(activations)
+
         weights = []
         for i in range(num_layers - 1):
             weight = np.zeros([layer_sizes[i] + 1, layer_sizes[i + 1]])
