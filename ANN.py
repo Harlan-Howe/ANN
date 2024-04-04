@@ -93,7 +93,7 @@ class ANN:
         activations = []
         for i in range(num_layers):
             activations.append(ActivationType[activations_split[i]])
-
+        activations = tuple(activations)
         weights = []
         for i in range(num_layers - 1):
             weight = np.zeros([layer_sizes[i] + 1, layer_sizes[i + 1]])
